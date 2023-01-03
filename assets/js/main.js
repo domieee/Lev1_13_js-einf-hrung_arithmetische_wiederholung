@@ -16,7 +16,7 @@ let multiplication_operator = 2 * 2;
 console.log("multiplication: " + multiplication_operator);
     // Der Multiplikations-Operator wird genutzt um Variablen und Summen zu multiplizieren
 
-// / / Division
+// Division
 let division_operator = 4 / 2;
 console.log("division: " + division_operator);
     // Der Divisions-Operator wird genutzt um Variablen und Summen zu dividieren
